@@ -3,7 +3,7 @@
 *~
 .*
 *.py.bak
-.idea
+.idea/
 
 /site/
 /htmlcov/
